@@ -13,3 +13,6 @@
 [submodule "edu-rpa-serverless-robot"]
 	path = edu-rpa-serverless-robot
 	url = https://github.com/edu-rpa/edu-rpa-serverless-robot.git
+[submodule "edurpa-robot-validate-service"]
+	path = edurpa-robot-validate-service
+	url = https://github.com/edu-rpa/edurpa-robot-validate-service.git
