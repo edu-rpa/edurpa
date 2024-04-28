@@ -1,0 +1,15 @@
+[submodule "edu-rpa-frontend"]
+	path = edu-rpa-frontend
+	url = https://github.com/edu-rpa/edu-rpa-frontend.git
+[submodule "edu-rpa-backend"]
+	path = edu-rpa-backend
+	url = https://github.com/edu-rpa/edu-rpa-backend.git
+[submodule "edurpa-librabry/edurpa-document"]
+	path = edurpa-librabry/edurpa-document
+	url = https://github.com/edu-rpa/edurpa-document.git
+[submodule "edurpa-librabry/edurpa-cloud"]
+	path = edurpa-librabry/edurpa-cloud
+	url = https://github.com/edu-rpa/edurpa-cloud.git
+[submodule "edu-rpa-serverless-robot"]
+	path = edu-rpa-serverless-robot
+	url = https://github.com/edu-rpa/edu-rpa-serverless-robot.git
