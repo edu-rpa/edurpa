@@ -1,5 +1,10 @@
 # Git Commands for Updating Submodules
 
+```sh
+git clone https://github.com/edu-rpa/edurpa.git
+git submodule update --init --recursive
+```
+
 To ensure all submodules in your repository are up-to-date, use the following command:
 
 ```sh
